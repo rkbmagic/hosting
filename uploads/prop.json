@@ -1,1 +1,15 @@
-[]
+[
+    {
+        "id": 1,
+        "title": "Hey",
+        "location": "bangalore",
+        "type": "villa",
+        "description": "fgfg",
+        "beds": 3,
+        "baths": 3,
+        "area": 3,
+        "price": "3",
+        "image": "property_68014b04e4a41.png",
+        "badge": "3"
+    }
+]
