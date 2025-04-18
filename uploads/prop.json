@@ -24,18 +24,5 @@
         "price": "600",
         "image": "property_6801c2984d2ef.png",
         "badge": ""
-    },
-    {
-        "id": 3,
-        "title": "Hello",
-        "location": "delhi",
-        "type": "apartment",
-        "description": "fgfd",
-        "beds": 4,
-        "baths": 4,
-        "area": 4,
-        "price": "600",
-        "image": "property_6801c2fdb0b52.png",
-        "badge": ""
     }
 ]
