@@ -24,5 +24,18 @@
         "price": "600",
         "image": "property_6801c2984d2ef.png",
         "badge": ""
+    },
+    {
+        "id": 3,
+        "title": "r",
+        "location": "bangalore",
+        "type": "apartment",
+        "description": "r",
+        "beds": 4,
+        "baths": 4,
+        "area": 4,
+        "price": "4",
+        "image": "property_6801c3f18d346.png",
+        "badge": ""
     }
 ]
