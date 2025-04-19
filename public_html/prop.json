@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "title": "f",
+        "location": "delhi",
+        "type": "house",
+        "description": "dsfsdfsdf",
+        "beds": 5,
+        "baths": 5,
+        "area": 5,
+        "price": "555",
+        "image": "property_6803e363e9deb.jpg",
+        "badge": ""
+    }
+]
