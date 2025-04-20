@@ -1,15 +1,15 @@
 [
     {
         "id": 1,
-        "title": "fddddddcdddddd 2",
-        "location": "delhi",
+        "title": "Skyline Residences",
+        "location": "chennai",
         "type": "house",
-        "description": "hahaha",
+        "description": "Premium 3BHK apartments with panoramic city views in Bangalore's prime location",
         "beds": 5,
         "baths": 5,
-        "area": 5,
+        "area": 120,
         "price": "555",
-        "image": "property_6803e363e9deb.jpg",
+        "image": "property_680541965a8ae.jpeg",
         "badge": ""
     }
 ]
