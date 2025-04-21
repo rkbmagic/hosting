@@ -11,5 +11,18 @@
         "price": "4 CR - 5 CR",
         "image": "property_680541965a8ae.jpeg",
         "badge": ""
+    },
+    {
+        "id": 2,
+        "title": "Bollineni Zion",
+        "location": "chennai",
+        "type": "apartment",
+        "description": "Bollineni Zion is an Integrated Township developed by Bollineni Homes near Semmenchery. Project is in 23.5 Acres with 13 high rise towers with 28 floors and offers 2,2.5 & 3 BHK apartments. ",
+        "beds": 2,
+        "baths": 2,
+        "area": 910,
+        "price": "73",
+        "image": "property_6805f093cae44.png",
+        "badge": ""
     }
 ]
