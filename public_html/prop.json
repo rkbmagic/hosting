@@ -24,5 +24,18 @@
         "price": "73",
         "image": "property_6805f093cae44.png",
         "badge": ""
+    },
+    {
+        "id": 3,
+        "title": "Hiranandani Parks",
+        "location": "chennai",
+        "type": "apartment",
+        "description": "Ready to build plots and apartments",
+        "beds": 3,
+        "baths": 3,
+        "area": 1900,
+        "price": "90 lakhs",
+        "image": "property_6827ff22db73e.png",
+        "badge": ""
     }
 ]
